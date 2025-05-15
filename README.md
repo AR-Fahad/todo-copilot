@@ -61,4 +61,6 @@ NEXT_PUBLIC_COPILOTKIT_API_KEY=your-api-key-here
 pnpm dev
 ```
 
-![cTodo Preview]()
+### 🔗 Live Demo
+
+**[cTodo.](https://todo-copilot-ten.vercel.app)**
